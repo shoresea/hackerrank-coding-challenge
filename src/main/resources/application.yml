@@ -1,0 +1,4 @@
+scheduler:
+  statistics:
+    enable: true
+    fixedDelay: 30000
